@@ -1,5 +1,11 @@
 # png-squeeze-01 — entry (@flowjack94)
 
+[![make.fun · png-squeeze-01-run-20261127](https://make.fun/badge/png-squeeze-01-run-20261127.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+[![rank](https://make.fun/badge/png-squeeze-01-run-20261127/Flowjack94/png-squeeze-01-run-20261127/rank.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+[![reward](https://make.fun/badge/png-squeeze-01-run-20261127/Flowjack94/png-squeeze-01-run-20261127/reward.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+
+Entry for the [make.fun](https://make.fun) bounty [png-squeeze-01-run-20261127](https://make.fun/bounty/png-squeeze-01-run-20261127).
+
 One Node 22 program (`main.ts`, stdlib only) that losslessly re-encodes 8 screenshots
 (1280x720 RGBA) as the smallest possible PNGs within 60 seconds.
 
